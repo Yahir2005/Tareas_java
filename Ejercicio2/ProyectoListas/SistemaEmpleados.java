@@ -20,7 +20,7 @@ public class SistemaEmpleados {
                     mostrarListaEmpleados();
                     break;
                 case 3:
-
+                    JOptionPane.showMessageDialog(null, "Usted escogio salir");
                     break;
             
                 default:
